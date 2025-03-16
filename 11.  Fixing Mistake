@@ -1,0 +1,24 @@
+git log -> show all commit
+        -> contain commit_hash
+
+
+
+Staged Changes
+    git add -> ko reverse krne liyy below vala use
+    git reset fileName
+    git reset
+
+
+Committed Changes(for one commit -> last vaala)
+    git reset HEAD~1
+
+
+Committed Changes(for many commit)
+    // srf yhi commit ht jaaaiga
+        git reset commit_hash
+
+    //iske baadke saare commit ht jaainge
+        git reset --hard commit_hash
+
+
+

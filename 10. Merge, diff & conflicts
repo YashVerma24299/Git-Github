@@ -1,0 +1,13 @@
+git merge BranchName
+git diff BranchName
+
+merge -> join kelia
+      -> github ka compare and pull request yhi hhh
+
+diff  -> check conflicts
+      -> 2 files mai same changes ko conflicts bolte haiii
+
+
+merge karenge tho conflicts show hoga agr hua tho,
+manually solve krenege,
+then unn files ko vaapas add, commit krna hoga.
