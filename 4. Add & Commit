@@ -1,0 +1,11 @@
+ADD: changed files in your working directory to git staging area
+ADD: also known stage change
+//Select one file (for STAGED)
+    git add filename
+
+//Select all file (for STAGED)
+    git add .
+
+
+COMMIT: It is the record of change
+    git commit -m "some messages"

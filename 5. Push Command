@@ -1,0 +1,7 @@
+PUSH: upload local repo content to main repo
+    git push origin main
+
+
+If I'm doing this for the first time, 
+after running this command, 
+I'll need to connect to GitHub.
