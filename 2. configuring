@@ -1,0 +1,14 @@
+git config --global user.name "My Name"
+git config --global user.email "abc@gmail.com"
+
+
+//Help us to set the name & -email
+git config --global user.name "Yash Verma";
+
+
+//Help to see the list
+git config --list
+
+
+//In VS code
+Apply all terminal commands like pwd, cd etcc

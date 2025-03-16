@@ -1,0 +1,9 @@
+In Terminal,
+    git clone <---   Some http link   --->
+    Some http link - present -> Above where the number of commits is shown.
+    and "ls" to check files
+    and "ls -a" to check hidden files
+
+
+In Terminal,
+    git status  -> track files
