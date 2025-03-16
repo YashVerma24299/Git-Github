@@ -1,0 +1,24 @@
+Git 
+-> Free & Open Source "version control system"
+-> Tool that help to track the change in code
+
+
+Github
+-> Website where we host repositories online
+
+
+(In git bash)
+-> Type ---> git --version
+             output ---> git version 2.46.2.windows.1
+             objective ---> Git Version check
+
+
+-> Type ---> git
+             output ---> show many commands in terminal
+
+
+For Download
+-> https://git-scm.com/downloads (Go there)
+
+
+mkdir, rm commands work in terminal as well for create folder or files
