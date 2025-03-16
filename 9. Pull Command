@@ -1,0 +1,9 @@
+PULL: used to fetch the content from github repo and immediately update the local repo to match that content
+
+//means mne github par jakr,
+compare and pull request kiya,
+merge bhi kiyaa,
+lekin vo local repo m nhi hothaa,
+uske liyy aapn ko ye command use krna pdta haii
+
+git pull origin main
