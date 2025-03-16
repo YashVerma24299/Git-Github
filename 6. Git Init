@@ -1,0 +1,28 @@
+Init: used to create a new git repo
+    git init
+
+
+
+// Make repo on github account
+// Copy - Paste the Commands
+
+            OR
+            OR
+            OR
+
+1. git remote add origin  <-- link -->
+    link -> new repo link
+    git remote -v (To verify remote)
+    git branch (to check branch) ->(show master)
+
+2. git branch -M main 
+    (used to convert the branch from "master" to "main")
+
+3. git push origin main
+
+
+
+IF,
+    I do only one time this -> git push -u origin main
+THEN,
+    Instead of "git push origin main", i write only "git push"

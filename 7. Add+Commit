@@ -1,0 +1,2 @@
+Add and Commit can be done in one line
+    git commit -am "some messages"
