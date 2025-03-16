@@ -1,0 +1,42 @@
+Branches generally used for collabration
+
+main Project-> frontend
+            -> backend
+
+            frontend    
+                ->Dev1
+                ->Dev2
+                ->Dev3
+
+                Dev3
+                    ->D1
+                    ->D2
+
+            backend
+                ->Follow some Branches also
+
+People work parallel in this,
+and merge them in the end.            
+
+
+
+//Branch Commands
+1.  git branch                      (to check current branch)
+2.  git branch -M main              (to convert branch)
+3.  git checkout branchName         (To move from one branch to another)
+4.  git checkout -b branchName      (Create new branch)
+
+    branchName -> like main, master.
+
+5.  git branch -d branchName        (delete barnch)
+
+
+
+i have 2 branch -> main, bug.
+Since `bug` and `main` are separate branches,
+changes pushed to `bug` won't affect `main` unless you merge them.
+Now, set-upstream for bug branch by(git push)
+Example:
+        (Integrate-Branches) - REPO
+
+        **Check Acche se upar vaali repo ko**
